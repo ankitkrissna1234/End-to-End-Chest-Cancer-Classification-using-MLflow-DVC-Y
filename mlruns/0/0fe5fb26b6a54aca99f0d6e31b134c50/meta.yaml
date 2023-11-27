@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/YOU_TUBE/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC-Y/mlruns/0/0fe5fb26b6a54aca99f0d6e31b134c50/artifacts
+end_time: 1701096518918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fe5fb26b6a54aca99f0d6e31b134c50
+run_name: amazing-swan-704
+run_uuid: 0fe5fb26b6a54aca99f0d6e31b134c50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701096510970
+status: 3
+tags: []
+user_id: sahua
